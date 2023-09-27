@@ -1,60 +1,8 @@
-# p5.js Template
+# HOMEWORK 03 PART A
 
-This is a README file that can be used to describe and document your assignment.
+## SUMMARY
+This code aims to create a Yayoi Kusama style image with large and small circles that repeat.
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+----
 
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+My initial plan was to create a repeating pattern of the large polka dots in one set of netsted for loops, and to then repeat this for the small dots in a seperate nest of loops. With a canvas of 400x400, I mentally split it into segments of 50 units to visualize. The hardest part thus far was figuring out my issue with the smaller dots, as they would not appear.
